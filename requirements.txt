@@ -1,1 +1,10 @@
-streamlit
+# requirements.txt
+streamlit>=1.22
+pandas>=2.0
+numpy>=1.24
+plotly>=5.15
+matplotlib>=3.7
+requests>=2.28
+python-dateutil
+pytz
+statsmodels>=0.14
